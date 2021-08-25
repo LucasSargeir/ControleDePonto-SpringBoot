@@ -4,7 +4,7 @@ Projeto construido no bootcamp Satander, disponibilizado pela Digital Innovation
 
 O modelo de dados utilizado para criação da API pode ser visto na imagem abaixo:
 
-![modelo de dados](https://github.com/LucasSargeir/ControleDePonto-SpringBoot/tree/main/database/modelo.png)
+![modelo de dados](https://github.com/LucasSargeir/ControleDePonto-SpringBoot/blob/main/database/modelo.png)
 
 
 
