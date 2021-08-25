@@ -64,7 +64,7 @@ Para build do projeto foi utilizado o *[graddle](https://docs.gradle.org/current
 
 Se além do *build* você deseje que a aplicação inicie, basta utilizar o comando abaixo:
 
-```python
+```bash
 ./gradlew bootRun
 ```
 
